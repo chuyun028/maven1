@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ￦ﾀﾝ￩ﾛﾨ
+Build-Jdk: 10.0.1
+Implementation-Title: spring-boot-jpa-thymeleaf-curd
+Implementation-Version: 1.5.6.RELEASE
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ jpa-thymeleaf-curd/
+Created-By: Maven Integration for Eclipse
+
